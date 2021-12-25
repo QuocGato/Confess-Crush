@@ -1,20 +1,20 @@
 const CONFIG = {
     titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'hi các Bạn ',
+    introDesc: `Nhân ngày Noel
+    Chúc Bạn có một giáng sinh an lành
+    Một tháng cuối năm nhiều may mắn
+    Chúc bạn sớm có được gấu nhó`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    title: 'Bạn hãy chọn một món quà nàooooo 🥰',
+    desc: '',
+    btnYes: '+1 tình yêu thương của Quốc nhé <33',
+    btnNo: '500k :3',
+    question: 'Bạn có thích món quà này không nhỉ <3',
+    btnReply: 'Mình thích lắm, cảm ưn Quốc nha <3',
+    reply: 'Yêuuuuu Ká <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messDesc: 'Bạn có muốn nhận thêm quà không nè',
+    btnAccept: 'Tất nhiên rồi <3',
+    messLink: 'https://drive.google.com/file/d/1FObhFolMvdI_CxmvABsrUvOKwpCWHhwV/view?usp=sharing' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
